@@ -282,7 +282,7 @@ if (file_exists("recommendationSaveData/$saveFile")) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="styles/edit2.css">
+    <link rel="stylesheet" type="text/css" href="styles/edit.css">
 </head>
 <body>
     <img src="images/nccnpLogo.svg" alt="NCCNP Logo" id="nccnp"/>
