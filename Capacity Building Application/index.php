@@ -47,7 +47,7 @@ if (isset($_POST['actionSteps'])) {
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="styles/index2.css">
+    <link rel="stylesheet" type="text/css" href="styles/index.css">
     <script>
         function changeEventHandler(event){
             var name = event.target.value;
