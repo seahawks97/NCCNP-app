@@ -6,4 +6,7 @@ NCCNP employees can write recommendations, goals, and action steps concurrently 
 Once all work is complete, a document with recommendations, goals, and or action steps, can be exported and shared with the nonprofit.
 
 The application is currently hosted on a free web hosting site/server for use by NCCNP.
-For future development of this application, please contact me at bunnbebe@gmail.com.
+For future development of this application, please contact Audrey Bunn at bunnbebe@gmail.com.
+
+### Notes from Steven Tucker
+I contributed to the source code and that is verifyable by contacting Ms. Bunn above. A new repo was started once we got a better idea of the application we were creating.
